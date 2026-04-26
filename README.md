@@ -1,58 +1,75 @@
-# Hi. I'm **Eduard**. 👋
-![](https://komarev.com/ghpvc/?username=PersoSirEduard&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/PersoSirEduard?tab=followers)<br/>
+# Eduard Anton
 
-I'm an undergraduate student in Software Engineering at McGill University. My expertise and interests lie in `web development`, `machine learning`, `network programming`, and `systems programming`.
-I've previously interned at Ericsson, Airbus, and CAE. 
+![Profile views](https://komarev.com/ghpvc/?username=PersoSirEduard&style=for-the-badge&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/PersoSirEduard?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/PersoSirEduard?tab=followers)
+[![Website](https://img.shields.io/badge/eduard--anton.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.eduard-anton.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-anton)
 
-Oh, I almost forgot! I'm also a co-founder at LiveGuard.
-<p><img alt="Static Badge" src="https://img.shields.io/badge/LiveGuard-blue?style=for-the-badge&link=https%3A%2F%2Fliveguard.ca">
-</p>
+> M.Sc. Computer Science student at **McGill University**, focused on reinforcement learning, LLMs, and robotics. Founder at **Streamwise**, an AI startup backed by **McGill, Next AI, and Mila**. Motivated by building real products from research ideas.
 
-## 🛠️ **Tools that I use**
-* **Languages**: C/C++, Python, Java, Go, HTML, CSS, JavaScript, SQL, Matlab, OCaml, and Dart
-* **Databases**: PostgreSQL, MongoDB, and MySQL
-* **Web frameworks**: React, Vue.js, Svelte, and Electron
-* **Machine learning**: PyTorch, Tensorflow, Scikit-learn, OpenCV, Numpy, and Pandas
-* **Containers and VMs**: Docker, Kubernetes, VMware, Virtual Box
-* **Others**: Unity, Unreal Engine, Godot, Blender, Fusion 360, Altium
+`Reinforcement Learning` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Distributed Systems` &nbsp;·&nbsp; `Entrepreneurship`
 
-## 📞 **Connect with me**
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduard-anton%2F)<br />
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F0x.eduard.anton%2F)
+---
 
-## **TL;DR**
+## Currently
 
-```python
-class Eduard():
-    
-  def __init__(self):
-    self.name = "Eduard"
-    self.location = "Montreal, CA"
-    self.major = "Software Engineering, McGill University"
-    self.languages = [
-      "Java",
-      "Python",
-      "JavaScript",
-      "Go",
-      "C/C++",
-      "HTML",
-      "CSS",
-      "OCmal",
-      "MatLab"
-    ]
-  
-  def __str__(self):
-    return self.name
+- Scaling my startup [**Streamwise**](https://streamwise.gg) — Founder / CTO
+- Pursuing M.Sc. in AI/ML @ McGill University
+- Interning @ **Avanade** as an AI & Data Engineering Intern
+- Drinking way too much espresso and matcha
 
-if __name__ == '__main__':
-    me = Eduard()
-```
+## Streamwise — Founder / CTO
 
+Architecting a production-grade, low-latency **ASR + LLM** system for real-time speech moderation in live streaming. Scaling ML inference pipelines to 100+ concurrent users on AWS.
 
-  <div align="center" style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PersoSirEduard&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  </div>
+`Real-time ML` `ASR` `LLM` `Go Backend` `AWS / K8s`
 
+## Research Interests
 
----------------------------------------------------------------------------------------------------------------------
+Reinforcement learning and LLM reasoning & robustness, with applications in robotics, speech recognition, computer vision, and generative AI.
+
+`Reinforcement Learning` `LLMs` `Robotics` `ASR` `Computer Vision` `Generative AI` `Deep Learning`
+
+## Selected Projects
+
+| Project | Stack |
+| --- | --- |
+| **RL High Altitude Balloon Flight Computer** | C · MATLAB · TensorFlow · RTOS |
+| **MediaFlux Livestream Pipeline** | Go · FFmpeg · Kubernetes · RTMP |
+| **Photorealistic Ray Tracer** | Python · Taichi · CUDA |
+| **ScamBack AI Agent** | Python · LLM · Twilio · STT/TTS |
+
+## Selected Writing
+
+- **Recursive Language Models for RTL Code Generation** — Mar. 2026
+- **Constrained Reflective Thinking for Physically Grounded LLM Planning** — Mar. 2026
+- **On-policy Distillation for ASR Optimization** — Jan. 2026
+- **Anytime Planning with Continuous Thought Machines** — Dec. 2025
+
+Full list available on [eduard-anton.com](https://www.eduard-anton.com).
+
+## Toolbox
+
+**Languages** &nbsp;·&nbsp; Python, Go, C/C++, Java, JavaScript/TypeScript, MATLAB, OCaml, SQL
+**ML / AI** &nbsp;·&nbsp; PyTorch, TensorFlow, JAX, Scikit-learn, OpenCV, CUDA, Taichi
+**Backend & Infra** &nbsp;·&nbsp; Go, FFmpeg, RTMP, PostgreSQL, MongoDB, Redis
+**Cloud & DevOps** &nbsp;·&nbsp; AWS, Kubernetes, Docker, Terraform
+**Web** &nbsp;·&nbsp; React, Vue, Svelte, Tailwind, Electron
+
+## Let's Connect
+
+Open to collaborations, opportunities, and interesting conversations.
+
+[![Email](https://img.shields.io/badge/eduard.anton@mail.mcgill.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduard.anton@mail.mcgill.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-anton)
+[![Streamwise](https://img.shields.io/badge/Streamwise-3B82F6?style=for-the-badge&logo=googlemeet&logoColor=white)](https://streamwise.gg)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PersoSirEduard&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=a78bfa&icon_color=22d3ee" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <sub>© 2026 Eduard Anton — built with care, deployed with coffee.</sub>
+</div>
